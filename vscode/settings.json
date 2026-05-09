@@ -1,6 +1,7 @@
 {
     "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.detectIndentation": false,
+    "editor.fontSize": 14,
     "editor.minimap.enabled": false,
     "editor.stickyScroll.enabled": false,
     "explorer.compactFolders": false,
@@ -10,7 +11,8 @@
     "files.trimTrailingWhitespace": true,
     "go.lintTool": "golangci-lint",
     "go.toolsManagement.autoUpdate": true,
-    "workbench.colorTheme": "Dark+",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Light 2026",
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.enablePreview": false,
     "workbench.startupEditor": "newUntitledFile"
