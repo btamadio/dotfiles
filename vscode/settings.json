@@ -1,7 +1,6 @@
 {
     "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.detectIndentation": false,
-    "editor.fontSize": 14,
     "editor.minimap.enabled": false,
     "editor.stickyScroll.enabled": false,
     "explorer.compactFolders": false,
@@ -15,5 +14,15 @@
     "workbench.colorTheme": "Light 2026",
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.enablePreview": false,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.editor.useModal": "off",
+    "workbench.settings.editor": "json",
+    "workbench.startupEditor": "newUntitledFile",
+
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.mypy_cache": true,
+        "**/.pytest_cache": true,
+        "**/.ruff_cache": true,
+        "**/.venv": true
+    }
 }
