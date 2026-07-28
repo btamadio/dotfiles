@@ -8,8 +8,6 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmPasteNative": false,
     "files.trimTrailingWhitespace": true,
-    "go.lintTool": "golangci-lint",
-    "go.toolsManagement.autoUpdate": true,
     "window.zoomLevel": 1,
     "workbench.colorTheme": "Light 2026",
     "workbench.editor.empty.hint": "hidden",
