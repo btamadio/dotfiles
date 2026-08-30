@@ -2,8 +2,8 @@
   editor = /usr/bin/vim
   pager = less -+$LESS -FRX
 [user]
-  name = Wagner Camarao
-  email = 777396+wcamarao@users.noreply.github.com
+  name = Brian Amadio
+  email = 5180129+btamadio@users.noreply.github.com
 [color]
   ui = auto
   interactive = auto
