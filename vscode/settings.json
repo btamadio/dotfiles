@@ -9,7 +9,7 @@
     "explorer.confirmPasteNative": false,
     "files.trimTrailingWhitespace": true,
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Light 2026",
+    "workbench.colorTheme": "Dark 2026",
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.enablePreview": false,
     "workbench.editor.useModal": "off",
