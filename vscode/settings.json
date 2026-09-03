@@ -15,12 +15,17 @@
     "workbench.editor.useModal": "off",
     "workbench.settings.editor": "json",
     "workbench.startupEditor": "newUntitledFile",
-
     "files.exclude": {
         "**/__pycache__": true,
         "**/.mypy_cache": true,
         "**/.pytest_cache": true,
         "**/.ruff_cache": true,
         "**/.venv": true
-    }
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "editor.formatOnSave": true,
+    "git.openRepositoryInParentFolders": "never"
 }
