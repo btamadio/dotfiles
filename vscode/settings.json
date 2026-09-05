@@ -27,5 +27,8 @@
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
     "editor.formatOnSave": true,
-    "git.openRepositoryInParentFolders": "never"
+    "git.openRepositoryInParentFolders": "never",
+    "markdown.styles": [
+        "style.css"
+    ]
 }
